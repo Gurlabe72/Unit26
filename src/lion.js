@@ -1,7 +1,7 @@
 var sound = 'ROAR!'
 
 // Only change Line 4
-function lion (sound) {
+const lion = () => {
   return 'The lion goes, "' + sound + '"'
 }
 
